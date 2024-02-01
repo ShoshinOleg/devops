@@ -1,0 +1,7 @@
+---
+worker_nodes:
+  hosts:
+    worker_node01:
+      ansible_user: <user>
+      ansible_password: <password>
+      ansible_host: 127.0.0.1

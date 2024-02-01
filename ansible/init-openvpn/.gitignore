@@ -1,0 +1,5 @@
+client.ovpn
+ssh-keys/
+ssh-keys/*
+.vpn-secrets/
+.vpn-secrets/*
